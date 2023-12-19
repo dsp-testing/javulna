@@ -275,3 +275,5 @@ When found, check the source-code.
 What type of XSS is this?  
 Discuss why this vulnerability exists, and why are there no other XSS vulnerabilties at other places!  
 Fix the vulnerability!
+
+
